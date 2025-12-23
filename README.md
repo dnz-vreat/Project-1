@@ -1,5 +1,3 @@
-# Project-1
-=
 # Insurance Claim Prediction – Machine Learning Project
 
 This project focuses on predicting insurance claims using supervised machine learning techniques on an imbalanced dataset.

@@ -74,8 +74,4 @@ The use of Gradient Boosting is motivated by:
 
 - `Projet_Machine_Learning_final.ipynb` : final notebook containing the full analysis and results.
 
----
 
-## Author
-
-Machine Learning project – ESILV  
